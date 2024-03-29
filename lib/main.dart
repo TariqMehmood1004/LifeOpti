@@ -8,7 +8,7 @@ void main() {
       themeMode: ThemeMode.dark,
       darkTheme: ThemeData.dark(),
       theme: ThemeData(),
-      home: const MyHomePage(title: 'VikVok'),
+      home: const HomePage(),
     ),
   );
 }
