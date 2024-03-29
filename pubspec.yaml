@@ -1,5 +1,5 @@
-name: vikvok
-description: "VikVok a tiktok based social media app"
+name: lifeopti
+description: "LifeOpti"
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -55,3 +55,4 @@ flutter:
     - assets/
     - assets/images/
     - assets/svgs/
+
